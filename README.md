@@ -1,31 +1,20 @@
-# INF6420 Project
+# Portfolio Project
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Library Home</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Welcome to My Reading Room</h1>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="about.html">About</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-  </header>
+## Homepage
 
-  <main>
-    <section>
-      <h2>Explore. Discover. Learn.</h2>
-      <p>We provide access to books, technology, and lifelong learning opportunities for everyone.</p>
-    </section>
-  </main>
+![alt text](wireframes/wireframe1.jpeg "Wireframe of Homepage")
 
-  <footer>
-    <p>&copy; 2025 Our Library</p>
-  </footer>
-</body>
-</html>
+Homepage layout
+
+## Book1
+
+![alt text](wireframes/wireframe2.jpeg "Wireframe of About")
+
+favorite book1 booktalk or presentation
+
+## Book2
+
+![alt text](wireframes/wireframe3.jpeg "Wireframe of Contact")
+
+favorite book2 booktalk or presentation
+

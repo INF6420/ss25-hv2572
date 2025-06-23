@@ -1,0 +1,37 @@
+
+*{
+    box-sizing: border-box;
+padding:0;
+margin:0;
+}
+body { 
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+    color:brown
+}
+img {
+    max-width: 100%
+}
+address {
+    font-style: normal;
+}
+
+/* header {
+margin: 1ream 1rem 0 1rem;
+padding: 0.5rem 1rem;
+bacground-color: white 
+}
+
+nav a {
+text-transform:uppercase;
+text-decoration: none;
+}
+.main-menu {
+position: relative;
+}
+.menu-icon {
+cursor
+
+@media screen and (min-width: 768px)

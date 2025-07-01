@@ -1,8 +1,8 @@
 
 *{
     box-sizing: border-box;
-padding:0;
-margin:0;
+padding:5;
+margin:5;
 }
 body { 
     background-color: aqua;
@@ -16,6 +16,11 @@ img {
 }
 address {
     font-style: normal;
+}
+
+.sub-nav {
+    display: flex;
+    flex-direction: column;
 }
 
 /* header {

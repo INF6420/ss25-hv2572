@@ -39,4 +39,21 @@ position: relative;
 .menu-icon {
 cursor
 
+.form-input:focus {
+outline: none
+border: 2px solid 
+}
+
+{type="submit"} {
+width: 100%
+font-size: 1.Sem;
+font-weight:700;
+text-transform:uppercase;
+border-radius:4px
+border: 0
+padding: .Sem
+cursor: pointer;
+}
+
+
 @media screen and (min-width: 768px)

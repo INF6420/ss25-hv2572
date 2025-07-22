@@ -1,8 +1,8 @@
 
 *{
     box-sizing: border-box;
-padding:5;
-margin:5;
+padding: 5px;
+margin: 5px;
 }
 body { 
     background-color: aqua;
@@ -12,7 +12,7 @@ a {
     color:brown
 }
 img {
-    max-width: 100%
+    max-width: 80%
 }
 address {
     font-style: normal;
